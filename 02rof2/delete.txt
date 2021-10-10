@@ -1,0 +1,10 @@
+installscript.vdf
+arena.eqg
+arena_EnvironmentEmitters.txt
+bazaar.eqg
+lavastorm.eqg
+lavastorm.emt
+lavastorm_chr.txt
+lavastorm_EnvironmentEmitters.txt
+nektulos.eqg
+nektulos_EnvironmentEmitters.txt
