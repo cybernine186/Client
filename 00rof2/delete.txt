@@ -8,3 +8,6 @@ lavastorm_chr.txt
 lavastorm_EnvironmentEmitters.txt
 nektulos.eqg
 nektulos_EnvironmentEmitters.txt
+highpasshold.eqg
+highpasshold.zon
+highpasshold_EnvironmentEmitters.txt
